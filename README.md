@@ -1,6 +1,6 @@
-BARFLY TRIVIA - BACKEND LOGIC
+BARFLY TRIVIA - BACKEND LOGIC/CLI TRIVIA GAME
 
-This is the backend logic for a trivia game built on Node.js. It uses socket.io to communicate between the player and the game server. It also uses the Open Triva DB API.
+This is the backend logic for a trivia game built on Node.js. It uses socket.io and prompt to communicate between the player and the game server. It also uses the Open Triva DB API.
 
 how to play in CLI:
 1) 'node lib/trivia-server.js'
